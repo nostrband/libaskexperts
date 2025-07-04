@@ -1,6 +1,8 @@
 # libaskexperts - Create Your Own Experts
 
-A TypeScript library to create experts based on [NIP-174](https://github.com/nostrband/askexperts/blob/main/NIP-174.md) (Ask Experts) protocol.
+A TypeScript library to create experts based on [NIP-174](https://github.com/nostrband/askexperts/blob/main/NIP-174.md) (AskExperts) protocol.
+
+AskExperts is intended to be used by MCP tools as clients to find experts and ask them questions in exchange for a Lightning Network payment.
 
 ## Overview
 
